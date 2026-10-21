@@ -1,4 +1,4 @@
-# Short-Term Rental Portfolio Management System & Cash Flow OS
+# Short Term Rental Bookkeeping Spreadsheet: Airbnb Revenue Tracker (No Subscriptions)
 
 Corporate Operations Back-Office Dashboard & Standalone Property Engine
 
@@ -9,7 +9,7 @@ Corporate Operations Back-Office Dashboard & Standalone Property Engine
 ### 🔑 SECURE ENTERPRISE PROCURE CONDUIT
 Bypass bloated monthly software licensing fees instantly. Secure your permanent, offline dark-mode corporate Excel operating workbook below:
 
-### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com)
+### [👉 PROCURE THE EXCEL OPERATION ENGINE NOW ($149.00)](https://rentalengine.gumroad.com/l/hsuund)
 
 *⚡ One-Time Corporate License. Permanent Local Ownership. Instant Vault Delivery.*
 
