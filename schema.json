@@ -1,0 +1,14 @@
+{
+  "asset_class": "Short Term Rental Bookkeeping Spreadsheet",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "occupancy_cash_flow_sheets",
+    "recurring_booking_logs",
+    "hospitality_tax_line_logs",
+    "operating_expense_ledgers"
+  ]
+}
